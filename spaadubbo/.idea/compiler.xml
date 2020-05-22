@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spaa_interface" />
+        <module name="spaa_common" />
+        <module name="spaa_web" />
+        <module name="spaa_provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spaa" target="1.8" />
+      <module name="spaa_common" target="1.8" />
+      <module name="spaa_interface" target="1.8" />
+      <module name="spaa_parent" target="1.8" />
+      <module name="spaa_provider" target="1.8" />
+      <module name="spaa_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spaa_jobs:war">
+    <output-path>$PROJECT_DIR$/spaa_jobs/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spaa_jobs</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spaa_jobs-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spaa_jobs:war exploded" />
+    </root>
+  </artifact>
+</component>

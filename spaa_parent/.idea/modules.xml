@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spaa_common/spaa_common.iml" filepath="$PROJECT_DIR$/spaa_common/spaa_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spaa_interface/spaa_interface.iml" filepath="$PROJECT_DIR$/spaa_interface/spaa_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spaa_jobs/spaa_jobs.iml" filepath="$PROJECT_DIR$/spaa_jobs/spaa_jobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spaa_parent.iml" filepath="$PROJECT_DIR$/.idea/spaa_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spaa_provider/spaa_provider.iml" filepath="$PROJECT_DIR$/spaa_provider/spaa_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spaa_web/spaa_web.iml" filepath="$PROJECT_DIR$/spaa_web/spaa_web.iml" />
+    </modules>
+  </component>
+</project>
